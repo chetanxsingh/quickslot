@@ -1,0 +1,14 @@
+name: quickslot_final
+description: Final QuickSlot App
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^5.4.0
+  flutter_riverpod: ^2.5.0
+
+flutter:
+  uses-material-design: true
